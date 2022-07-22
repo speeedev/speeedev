@@ -1,4 +1,4 @@
-# Hi, I'm Developer
+# Hi, I'm Android Developer
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
@@ -12,5 +12,6 @@ Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
 **Languages I know:**
 
-* Dart (Flutter) (Main)
-* Firebase
+* Flutter
+* Flutter Firebase
+* Flutter API
