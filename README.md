@@ -12,6 +12,5 @@ Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
 **Languages I know:**
 
-* C#
-* Python
 * Dart (Flutter) (Main)
+* Firebase
