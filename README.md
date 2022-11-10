@@ -2,14 +2,11 @@
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
-<p>
-<a href="https://www.linkedin.com/in/speedev/" target="_blank"><img align="left" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="40px"></a>
-<a href="https://medium.com/@speedev" target="_blank"><img align="left" style="border-radius=50%" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="40px"></a>
-
-<a href="https://www.instagram.com/spee.dev" target="_blank"><img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40px"></a>
-</p>
-<br>
-<br>
+<div style="display=flex">
+<a href="https://www.linkedin.com/in/speedev/" target="_blank"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="40px"></a>
+<a href="https://wwww.github.com/emirybolat/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px"><a/>
+<a href="https://www.instagram.com/spee.dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40px"></a>
+</div>
 <h3>Languages</h3>
 
 <div>
