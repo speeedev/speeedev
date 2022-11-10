@@ -2,6 +2,7 @@
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
+<a href="https://www.linkedin.com/in/speedev/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="50px"></a>
 <h3>Languages</h3>
 
 <div>
