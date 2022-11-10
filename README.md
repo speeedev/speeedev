@@ -2,15 +2,23 @@
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
-**Languages and technologies:**
+<h3>Languages</h3>
 
-* Dart Flutter
-* Firebase
-* API
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50px">
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/flutter-logo-5086DD11C5-seeklogo.com__JBIGT4S.png" width="40px">
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50px">
+</div>
 
-**My skills:**
+<h3>Databases</h3>
 
-* I don't give up.
-* I know how to do research.
-* I like to research.
-* I write clean, readable code.
+<div>
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" width="50px">
+  <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50px">
+</div>
+
+<h3>Editors</h3>
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50px">
+</div>
