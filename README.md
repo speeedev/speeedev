@@ -2,13 +2,14 @@
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
-<div>
-<a href="https://www.linkedin.com/in/speedev/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="50px"></a>
-<a href="https://www.instagram/spee.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-</div>
+<p>
+<a href="https://www.linkedin.com/in/speedev/"><img align="left" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="40px"></a>
+<a href="https://medium.com/@speedev"><img align="left" style="border-radius=50%" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="40px"></a>
+
+<a href="https://www.instagram/spee.dev"><img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40px"></a>
+</p>
+<br>
+<br>
 <h3>Languages</h3>
 
 <div>
