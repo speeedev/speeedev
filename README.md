@@ -22,6 +22,12 @@ Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
   <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" width="50px">
   <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50px">
 </div>
+  
+<h3>Tools</h3>
+  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="50px">
+</<div>
 
 <h3>Editors</h3>
 <div>
