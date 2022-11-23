@@ -1,4 +1,4 @@
-# Hi, I'm Emir
+# Hi, I Emir
 
 Hello, I'm a full-stack Flutter developer. Welcome to my GitHub page.
 
