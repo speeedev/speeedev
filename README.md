@@ -100,6 +100,18 @@
   </a>
 </p>
 
+<h3 align="left">My Projects</h3>
+
+- [Space Explorer - Flutter - 2024](https://github.com/speeedev/Space_Explorer_App_Flutter)
+- [Weather App - Flutter - 2024](https://github.com/speeedev/Weather_App_Flutter)
+- [BMI Calculator - Flutter - 2023](https://github.com/speeedev/Flutter-BMI-Calculator)
+- [Image to Link - Flutter - 2022](https://github.com/speeedev/Image-to-Link-App)
+- [Market App - Flutter - 2022](https://github.com/speeedev/Market-App)
+- [To-do List App - Flutter - 2022](https://github.com/speeedev/simple_todo_app_mysql)
+- [Space Explorer API - Node.js - 2024](https://github.com/speeedev/planet-app-api)
+- [Earthquake API - Node.js - 2023](https://github.com/speeedev/earthquake-api)
+
+<h3 align="left">Statistics</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speeedev&show_icons=true&locale=en&layout=compact" alt="speeedev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=speeedev&show_icons=true&locale=en" alt="speeedev" /></p>
