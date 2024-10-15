@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yemirbo" target="blank"><img src="https://img.shields.io/twitter/follow/yemirbo?logo=twitter&style=for-the-badge" alt="yemirbo" /></a> </p>
 
-- 🌱 I’m currently learning: **React Native**
+- 🌱 I’m currently learning: **Swift**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/speeedev?tab=repositories)
 
