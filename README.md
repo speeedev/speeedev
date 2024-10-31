@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/speedev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="speedev" height="30" width="40" /></a>
 <a href="https://instagram.com/spee.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spee.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@speedev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@speedev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/speedev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="speedev" height="30" width="40" /></a>
 <a href="https://medium.com/feed/@speedev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@speedev" height="30" width="40" /></a>
 </p>
 
@@ -96,17 +95,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">My Projects</h3>
-
-- [Space Explorer - Flutter - 2024](https://github.com/speeedev/Space_Explorer_App_Flutter)
-- [Weather App - Flutter - 2024](https://github.com/speeedev/Weather_App_Flutter)
-- [BMI Calculator - Flutter - 2023](https://github.com/speeedev/Flutter-BMI-Calculator)
-- [Image to Link - Flutter - 2022](https://github.com/speeedev/Image-to-Link-App)
-- [Market App - Flutter - 2022](https://github.com/speeedev/Market-App)
-- [To-do List App - Flutter - 2022](https://github.com/speeedev/simple_todo_app_mysql)
-- [Space Explorer API - Node.js - 2024](https://github.com/speeedev/planet-app-api)
-- [Earthquake API - Node.js - 2023](https://github.com/speeedev/earthquake-api)
 
 <h3 align="left">Statistics</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speeedev&show_icons=true&locale=en&layout=compact" alt="speeedev" /></p>
